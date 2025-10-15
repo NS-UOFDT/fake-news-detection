@@ -1,0 +1,10 @@
+fastapi==0.116.2
+uvicorn[standard]==0.23.2
+transformers==4.56.1
+scikit-learn==1.6.1
+pandas==2.2.2
+numpy==2.0.2
+joblib==1.5.2
+spacy==3.8.7
+
+
