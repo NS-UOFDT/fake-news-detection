@@ -76,7 +76,7 @@ function App() {
 
       {result && (
         <div className="result-card">
-          <h2>✅ Prediction Results</h2>
+          <h2> Prediction Results</h2>
           
           {/* Binary Results */}
           <div className="section">
