@@ -100,7 +100,7 @@ except FileNotFoundError as e:
 
 
 # -------------------------
-# Harmonized Preprocessing function
+# Preprocessing function
 # -------------------------
 def clean_text_harmonized(text):
     if pd.isnull(text) or not isinstance(text, str): return ""
